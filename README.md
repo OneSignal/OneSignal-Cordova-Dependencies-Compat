@@ -1,3 +1,11 @@
+## Deprecated
+
+Intel XDK will no longer suppot cloud builds at the end of June, 2017.
+https://software.intel.com/en-us/xdk/docs/using-the-build-tab
+
+Please use `onesignal-cordova-plugin` instead as it contains the OneSignal plugin and all the required dependencies.
+
+
 #### For Intel XDK
 Use `onesignal-cordova-plugin` instead if you **NOT** using Intel XDK.
 
